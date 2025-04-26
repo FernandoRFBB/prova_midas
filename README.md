@@ -9,4 +9,5 @@ Evoluções que poderiam ser feitas com mais tempo:
 - Colocar mais opções no menu, como controle de usuários
 - Melhorar a tela de login com esqueci a senha, lembrar senha e verificação em segunda etapa.
 - Adicionar imagens ao imóvel
-- Melhorar as validações de forma geral, para ficar mais específico.
+- Melhorar as validações como um todo, para ficar mais específico.
+- Melhorar a segurança de forma geral
